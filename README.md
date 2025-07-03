@@ -5,11 +5,11 @@ Ce dépôt contient les travaux pratiques, les notes de cours et les comptes-ren
 ### Contenu
 
 *   `/cours` : Notes théoriques.
-*   `/tp` : Code source des implémentations (Python/NumPy).
-*   `/comptes-rendus` : Rapports d'analyse des résultats.
+*   `/tpX` : Sujet, code source et compte rendu de chaque TP.
 
 ### Outils
 
 *   Python
 *   NumPy
 *   Matplotlib
+*   Vscode
