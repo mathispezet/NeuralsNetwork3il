@@ -13,5 +13,3 @@ Ce dépôt contient les travaux pratiques, les notes de cours et les comptes-ren
 *   Python
 *   NumPy
 *   Matplotlib
-
-**Auteur :** Mathis Pezet
