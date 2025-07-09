@@ -15,3 +15,6 @@ Ce dépôt contient les travaux pratiques, les notes de cours et les comptes-ren
 *   Vscode
 *   Google Collab
 *   Wandb
+
+
+Tout les cours / études / TP utilisés proviennent du site: https://sleek-think.ovh/
