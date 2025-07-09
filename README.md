@@ -5,6 +5,7 @@ Ce dépôt contient les travaux pratiques, les notes de cours et les comptes-ren
 ### Contenu
 
 *   `/cours` : Notes théoriques.
+*   `/fichesCondensées` : Fiches de révisions pour les partiels.
 *   `/tpX` : Sujet, code source et compte rendu de chaque TP.
 
 ### Outils
