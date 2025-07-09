@@ -10,9 +10,9 @@ C'est le **plus petit bloc de construction**, un neurone artificiel unique.
     
 *   **La Formule Essentielle du Perceptron :**Le calcul se fait en deux temps :
     
-    1.  Generated codez = (w₁\*x₁ + w₂\*x₂ + ... + wₙ\*xₙ) + bUse code [with caution](https://support.google.com/legal/answer/13505487).Ou en notation vectorielle (à connaître !) :z = w · x + b
+    1. (w₁\*x₁ + w₂\*x₂ + ... + wₙ\*xₙ) + b  ou en notation vectorielle (à connaître !) :z = w · x + b
         
-    2.  **Activation ŷ :** On passe z dans une fonction d'activation pour obtenir la prédiction finale.ŷ = f(z)
+    3.  **Activation ŷ :** On passe z dans une fonction d'activation pour obtenir la prédiction finale.ŷ = f(z)
         
     
     *   x: Vecteur des données d'entrée (les "features").
