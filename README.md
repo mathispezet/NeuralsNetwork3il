@@ -13,3 +13,5 @@ Ce dépôt contient les travaux pratiques, les notes de cours et les comptes-ren
 *   NumPy
 *   Matplotlib
 *   Vscode
+*   Google Collab
+*   Wandb
